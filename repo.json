@@ -97,7 +97,7 @@
     },
     {
         "version": "temurin_jdk17",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK17U-jdk_x64_windows_hotspot_17.0.9_9.zip"
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK17U-jdk_x64_windows_hotspot_17.0.18_8.zip"
     },
     {
         "version": "temurin_jdk21",
