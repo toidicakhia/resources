@@ -89,19 +89,19 @@
     },
     {
         "version": "temurin_jdk8",
-        "url": "https://github.com/adoptium/temurin8-binaries/releases/latest/download/OpenJDK8U-jdk_x64_windows_hotspot.zip"
+        "url": "https://github.com/adoptium/temurin8-binaries/releases/latest/download/OpenJDK8U-jdk_x64_windows_hotspot_8u482b08.zip"
     },
     {
         "version": "temurin_jdk11",
-        "url": "https://github.com/adoptium/temurin11-binaries/releases/latest/download/OpenJDK11U-jdk_x64_windows_hotspot.zip"
+        "url": "https://github.com/adoptium/temurin11-binaries/releases/latest/download/OpenJDK11U-jdk_x64_windows_hotspot_11.0.30_7.zip"
     },
     {
         "version": "temurin_jdk17",
-        "url": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK17U-jdk_x64_windows_hotspot.zip"
+        "url": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK21U-jdk_x64_windows_hotspot_21.0.10_7.zip"
     },
     {
         "version": "temurin_jdk21",
-        "url": "https://github.com/adoptium/temurin21-binaries/releases/latest/download/OpenJDK21U-jdk_x64_windows_hotspot.zip"
+        "url": "https://github.com/adoptium/temurin21-binaries/releases/latest/download/OpenJDK21U-jdk_x64_windows_hotspot_21.0.10_7.zip"
     },
     {
         "version": "zulu_jdk8",
