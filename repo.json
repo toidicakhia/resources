@@ -76,7 +76,7 @@
         "url": "https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.zip"
     },
     {
-        "version": "zulu_jdk21",
+        "version": "zulu_jdk25",
         "url": "https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-jdk25.0.2-win_x64.zip"
     }
 ]
