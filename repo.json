@@ -1,91 +1,43 @@
 [
     {
-        "version": "21.0.4",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-21_windows-x64_bin.zip"
-    },
-    {
-        "version": "20.0.0",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-20_windows-x64_bin.zip"
-    },
-    {
-        "version": "17.0.6",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-17_windows-x64_bin.zip"
-    },
-    {
-        "version": "amazon_jdk17.0.6",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/amazon-corretto-17.0.6.10.1-windows-x64-jdk.zip"
-    },
-    {
-        "version": "11.0.8",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-11.0.8.zip"
-    },
-    {
-        "version": "amazon_jdk11.0.13_8",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/amazon_jdk11.0.13_8.zip"
-    },
-    {
-        "version": "1.8.0_151",
+        "version": "openjdk_8",
         "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk1.8.0_151_x64.zip"
     },
     {
-        "version": "amazon_jdk1.8.0_265",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/amazon_jdk1.8.0_265.zip"
+        "version": "openjdk_11",
+        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-11.0.8.zip"
     },
     {
-        "version": "amazon_jdk1.8.0_222_x86",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/amazon_jdk1.8.0_222_x86.zip"
+        "version": "openjdk_17",
+        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-17_windows-x64_bin.zip"
     },
     {
-        "version": "1.8.0_74_x86",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk1.8.0_74_x86.zip"
+        "version": "openjdk_21",
+        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-21_windows-x64_bin.zip"
     },
     {
-        "version": "1.7.0_67",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk1.7.0_67_x64.zip"
-    },
-    {
-        "version": "1.7.0_80_x86",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk1.7.0_80_x86.zip"
-    },
-    {
-        "version": "1.6.0_43",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk1.6.0_43_x64.zip"
-    },
-    {
-        "version": "1.6.0_43_x86",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk1.6.0_43_x86.zip"
-    },
-    {
-        "version": "1.5.0_07_x86",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk1.5.0_07_x86.zip"
-    },
-    {
-        "version": "ibm_sdk80",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/vibm_sdk80_x64.zip"
-    },
-    {
-        "version": "ibm_sdk71",
-        "url": "https://github.com/ystyle/jvms/releases/download/jdk/vibm_sdk71_x64.zip"
-    },
+        "version": "openjdk_25",
+        "url": "https://github.com/ystyle/jvms/releases/download/jdk/jdk-25_windows-x64_bin.zip"
+    }, 
     {
         "version": "liberica_jdk8_full",
-        "url": "https://download.bell-sw.com/java/8u472+9/bellsoft-jdk8u472+9-windows-amd64-full.zip"
+        "url": "https://download.bell-sw.com/java/8u482+10/bellsoft-jdk8u482+10-windows-amd64-full.zip"
     },
     {
         "version": "liberica_jdk11_full",
-        "url": "https://download.bell-sw.com/java/11.0.29+10/bellsoft-jdk11.0.29+10-windows-amd64-full.zip"
+        "url": "https://download.bell-sw.com/java/11.0.30+9/bellsoft-jdk11.0.30+9-windows-amd64-full.zip"
     },
     {
         "version": "liberica_jdk17_full",
-        "url": "https://download.bell-sw.com/java/17.0.17+11/bellsoft-jdk17.0.17+11-windows-amd64-full.zip"
+        "url": "https://download.bell-sw.com/java/17.0.18+10/bellsoft-jdk17.0.18+10-windows-amd64-full.zip"
     },
     {
         "version": "liberica_jdk21_full",
-        "url": "https://download.bell-sw.com/java/21.0.9+11/bellsoft-jdk21.0.9+11-windows-amd64-full.zip"
+        "url": "https://download.bell-sw.com/java/21.0.10+10/bellsoft-jdk21.0.10+10-windows-amd64-full.zip"
     },
     {
         "version": "liberica_jdk25_full",
-        "url": "https://download.bell-sw.com/java/25.0.1+11/bellsoft-jdk25.0.1+11-windows-amd64-full.zip"
+        "url": "https://download.bell-sw.com/java/25.0.2+12/bellsoft-jdk25.0.2+12-windows-amd64-full.zip"
     },
     {
         "version": "temurin_jdk8",
@@ -104,27 +56,27 @@
         "url": "https://github.com/adoptium/temurin21-binaries/releases/latest/download/OpenJDK21U-jdk_x64_windows_hotspot_21.0.10_7.zip"
     },
     {
+        "version": "temurin_jdk25",
+        "url": "https://github.com/adoptium/temurin25-binaries/releases/latest/download/OpenJDK25U-jdk_x64_windows_hotspot_25.0.2_10.zip"
+    },
+    {
         "version": "zulu_jdk8",
-        "url": "https://cdn.azul.com/zulu/bin/zulu8.76.0.17-ca-jdk8.0.402-win_x64.zip"
+        "url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jdk8.0.482-win_x64.zip"
     },
     {
         "version": "zulu_jdk11",
-        "url": "https://cdn.azul.com/zulu/bin/zulu11.70.15-ca-jdk11.0.23-win_x64.zip"
+        "url": "https://cdn.azul.com/zulu/bin/zulu11.86.21-ca-jdk11.0.30-win_x64.zip"
     },
     {
         "version": "zulu_jdk17",
-        "url": "https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jdk17.0.12-win_x64.zip"
+        "url": "https://cdn.azul.com/zulu/bin/zulu17.64.17-ca-jdk17.0.18-win_x64.zip"
     },
     {
         "version": "zulu_jdk21",
-        "url": "https://cdn.azul.com/zulu/bin/zulu21.36.17-ca-jdk21.0.4-win_x64.zip"
+        "url": "https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.zip"
     },
     {
-        "version": "graalvm_jdk17",
-        "url": "https://github.com/graalvm/graalvm-ce-builds/releases/latest/download/graalvm-community-jdk-17_windows-x64_bin.zip"
-    },
-    {
-        "version": "graalvm_jdk21",
-        "url": "https://github.com/graalvm/graalvm-ce-builds/releases/latest/download/graalvm-community-jdk-21_windows-x64_bin.zip"
+        "version": "zulu_jdk21",
+        "url": "https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-jdk25.0.2-win_x64.zip"
     }
 ]
